@@ -5,7 +5,7 @@
 A simple Todo List application built with Laravel 10, Livewire 3, and styled using Tailwind CSS. This project serves as an introductory demonstration of the capabilities of Livewire within a Laravel application, combined with the utility-first styling of Tailwind CSS.
 
 
-<p style="text-align: center;">
+<p align="center">
 <a href="https://arashkp.com" target="_blank">
     <img style="max-width: 220px" src="https://raw.githubusercontent.com/arashkp/Todo-list/master/public/img/app-shot.png"  alt="Laravel - Livewire Todo List"/>
 </a>
